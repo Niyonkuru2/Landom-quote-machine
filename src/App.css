@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: blue;
+  background-color: azure;
+}
+#tweet-quote{
+  margin-left: 8px;
+  font-size: 15px;
+  background-color: darkred;
+  color: black;
+  border-radius: 2px;
+  margin-bottom: 15px;
+}
+a{
+  text-decoration: none;
+  border: 1px solid black;
+
+}
+#quote-box{
+  background-color: greenyellow;
+  width: 300px;
+}
+#author{
+  text-align: right;
+}
+#new-quote{
+  margin-left: 60px;
+  margin-bottom: 15px;
+}

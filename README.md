@@ -1,0 +1,1 @@
+This is Lanom quote machine it is certification challenge on freecodecamp on certificate of front end developer
